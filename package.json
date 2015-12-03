@@ -1,0 +1,20 @@
+{
+  "name": "fis3-preprocessor-html2js",
+  "version": "0.1.0",
+  "description": "A preprocessor for fis3 to convert html file to amd/commonjs wrap js file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "fis3",
+    "html2js",
+    "html"
+  ],
+  "author": "sparklewhy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "html2js": "^0.2.0"
+  }
+}
