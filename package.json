@@ -1,6 +1,6 @@
 {
   "name": "fis3-preprocessor-html2js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A preprocessor for fis3 to convert html file to amd/commonjs wrapping js file.",
   "main": "index.js",
   "scripts": {
