@@ -1,6 +1,8 @@
 fis3-preprocessor-html2js
 ========
 
+[![Dependency Status](https://david-dm.org/wuhy/fis3-preprocessor-html2js.svg)](https://david-dm.org/wuhy/fis3-preprocessor-html2js) [![devDependency Status](https://david-dm.org/wuhy/fis3-preprocessor-html2js/dev-status.svg)](https://david-dm.org/wuhy/fis3-preprocessor-html2js#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/fis3-preprocessor-html2js.svg?style=flat)](https://npmjs.org/package/fis3-preprocessor-html2js)
+
 > A preprocessor for fis3 to convert html file to amd/commonjs wrapping js file.
 
 
